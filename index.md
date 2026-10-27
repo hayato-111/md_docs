@@ -10,12 +10,17 @@
 
 ## 略歴
 
-2025年4月 ~     名古屋大学大学院　理学研究科　理学専攻　物理科学領域　博士前期課程
+<div style="display: grid; grid-template-columns: max-content 1fr; column-gap: 24px; row-gap: 8px;">
+  <div style="white-space: nowrap;">2025年4月 ～</div>
+  <div>名古屋大学大学院 理学研究科 理学専攻 物理科学領域 博士前期課程</div>
 
-2020年4月 ~ 2025年3月    新潟大学　理学部　理学専攻　物理学プログラム
+  <div style="white-space: nowrap;">2020年4月 ～ 2025年3月</div>
+  <div>新潟大学 理学部 理学専攻 物理学プログラム</div>
 
-2023年8月 ~ 2024年5月   Sonoma State University 交換留学
+  <div style="white-space: nowrap;">2023年8月 ～ 2024年5月</div>
+  <div>Sonoma State University 交換留学</div>
+</div>
 
 ## 受賞
 
-1. Dean's list(学部長表彰成績優秀者リスト), 2023年1月
+1. Dean's list (学部長表彰成績優秀者リスト), 2024年1月
