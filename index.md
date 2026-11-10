@@ -1,5 +1,5 @@
 <div style="text-align: right;">
-  <strong>JP</strong> | <a href="index-en.html">EN</a>
+  <strong>JP</strong> | <a href="index_en.html">EN</a>
 </div>
 
 # 大谷内　颯斗 (Hayato Oyauchi)

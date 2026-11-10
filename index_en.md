@@ -1,30 +1,33 @@
+---
+title: Home
+---
+
 <div style="text-align: right;">
   <a href="index.html">JP</a> | <strong>EN</strong>
 </div>
 
-# 大谷内　颯斗 (Hayato Oyauchi)
+# Hayato Oyauchi
 
-名古屋大学大学院 理学研究科理学専攻 物理科学領域\\
-[物性理論研究室　量子輸送理論グループ (St研)](http://www.st.phys.nagoya-u.ac.jp/index.html)
-博士前期課程 2年
+Department of Physics, Nagoya University\\
+[Condensed Matter Theory Laboratory Quantum Transport Group (St Lab)](http://www.st.phys.nagoya-u.ac.jp/index.html)
 
 ## Menu
 
 - [Research](research.md)
 
-## 略歴
+## Education
 
 <div style="display: grid; grid-template-columns: max-content 1fr; column-gap: 24px; row-gap: 8px;">
-  <div style="white-space: nowrap;">2025年4月 ～</div>
-  <div>名古屋大学大学院 理学研究科 理学専攻 物理科学領域 博士前期課程</div>
+  <div style="white-space: nowrap;">Apr 2025 -</div>
+  <div>Department of Physics, Nagoya University, M.S. student in Physics</div>
 
-  <div style="white-space: nowrap;">2020年4月 ～ 2025年3月</div>
-  <div>新潟大学 理学部 理学専攻 物理学プログラム</div>
+  <div style="white-space: nowrap;">Apr 2020 - Mar 2025</div>
+  <div>Niigata University, Bachelor of Science in Physics, Minor in English</div>
 
-  <div style="white-space: nowrap;">2023年8月 ～ 2024年5月</div>
-  <div>Sonoma State University 交換留学</div>
+  <div style="white-space: nowrap;">Aug 2023 - May 2024</div>
+  <div>Sonoma State University, Exchange student in Physics</div>
 </div>
 
-## 受賞
+## Honors
 
-1. Dean's list (学部長表彰成績優秀者リスト), 2024年1月
+1. Dean's list , Jenuary, 2024

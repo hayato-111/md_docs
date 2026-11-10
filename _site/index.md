@@ -1,3 +1,7 @@
+<div style="text-align: right;">
+  <strong>JP</strong> | <a href="index_en.html">EN</a>
+</div>
+
 # 大谷内　颯斗 (Hayato Oyauchi)
 
 名古屋大学大学院 理学研究科理学専攻 物理科学領域\\
